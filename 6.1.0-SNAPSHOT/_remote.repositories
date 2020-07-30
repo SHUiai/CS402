@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 14:22:43 EDT 2020
+common-logging-6.1.0-SNAPSHOT-sources.jar>=
+common-logging-6.1.0-SNAPSHOT.jar>=
+common-logging-6.1.0-SNAPSHOT-tests.jar>=
+common-logging-6.1.0-SNAPSHOT.pom>=
